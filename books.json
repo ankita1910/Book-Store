@@ -1,0 +1,202 @@
+{
+ "book_101" : {
+    "id": 1,
+    "name": "Learning ReactJS",
+    "author": "Samer Buna",
+    "title": "Learning ReactJS",
+    "ratings": "4",
+    "category": "Javascript",
+    "column": "1",
+    "shelf": "1"
+  },
+  "book_102" : {
+    "id": 2,
+    "name": "Test-Driving Javascript Applications",
+    "author": "Venkat Subramaniam",
+    "title": "Test-Driving Javascript Applications",
+    "ratings": "4.5",
+    "category": "Javascript",
+    "column": "1",
+    "shelf": "2"
+  },
+  "book_103" : {
+    "id": 3,
+    "name": "Refactoring Javascript",
+    "author": "Evan Burchard",
+    "title": "Refactoring Javascript",
+    "ratings": "4",
+    "category": "Javascript",
+    "column": "1",
+    "shelf": "3"
+  },
+   "book_104" : {
+    "id": 4,
+    "name": "Refactoring Javascript",
+    "author": "Evan Burchard",
+    "title": "Refactoring Javascript",
+    "ratings": "4",
+    "category": "Javascript",
+    "column": "1",
+    "shelf": "4"
+  },
+   "book_105" : {
+    "id": 5,
+    "name": "The complete Guide to Node.js",
+    "author": "Joshua Johanan",
+    "title": "The complete Guide to Node.js",
+    "ratings": "4",
+    "category": "Javascript",
+    "column": "1",
+    "shelf": "5"
+  },
+   "book_106" : {
+    "id": 6,
+    "name": "Building Isomorphic JavaScript Apps",
+    "author": "Jason Strimpe",
+    "title": "Building Isomorphic JavaScript Apps",
+    "ratings": "4.5",
+    "category": "Javascript",
+    "column": "2",
+    "shelf": "1"
+  },
+   "book_107" : {
+    "id": 7,
+    "name": "SOCKET.IO Solutions",
+    "author": "Tyson Cadenhead",
+    "title": "SOCKET.IO Solutions",
+    "ratings": "4",
+    "category": "Javascript",
+    "column": "2",
+    "shelf": "2"
+  },
+  "book_108" : {
+    "id": 8,
+    "name": "Javascript: Object Oriented Programming",
+    "author": "Ved Antani",
+    "title": "Javascript: Object Oriented Programming",
+    "ratings": "4",
+    "category": "Javascript",
+    "column": "2",
+    "shelf": "3"
+  },
+  "book_109" : {
+    "id": 9,
+    "name": "Javascript: Functional Programming for Javascript Developers",
+    "author": "Ved Antani",
+    "title": "Javascript: Functional Programming for Javascript Developers",
+    "ratings": "4",
+    "category": "Javascript",
+    "column": "2",
+    "shelf": "4"
+  },
+  "book_1010" : {
+    "id": 10,
+    "name": "Angular 2 Essentials",
+    "author": "John Munsch",
+    "title": "Angular 2 Essentials",
+    "ratings": "4.5",
+    "category": "Javascript",
+    "column": "2",
+    "shelf": "5"
+  },
+  "book_1011" : {
+    "id": 11,
+    "name": "Understanding ECMAScript 6",
+    "author": "Nichols Zakas",
+    "title": "Understanding ECMAScript 6",
+    "ratings": "4.5",
+    "category": "Javascript",
+    "column": "3",
+    "shelf": "1"
+  },
+  "book_1012" : {
+    "id": 12,
+    "name": "Modular Programming with JavaScript",
+    "author": "Sasan Seydnejad",
+    "title": "Modular Programming with JavaScript",
+    "ratings": "3.5",
+    "category": "Javascript",
+    "column": "3",
+    "shelf": "2"
+  },
+  "book_1013" : {
+    "id": 13,
+    "name": "Using Blocks in Ruby",
+    "author": "Jay McGavren",
+    "title": "Using Blocks in Ruby",
+    "ratings": "4.5",
+    "category": "Ruby on Rails",
+    "column": "3",
+    "shelf": "3"
+  },
+  "book_1014" : {
+    "id": 14,
+    "name": "Learn Game Programming with Ruby",
+    "author": "Mark Sobkowicz",
+    "title": "Learn Game Programming with Ruby",
+    "ratings": "4",
+    "category": "Ruby on Rails",
+    "column": "3",
+    "shelf": "4"
+  },
+  "book_1015" : {
+    "id": 15,
+    "name": "RESTful Rails Development",
+    "author": "Silvia Puglisi",
+    "title": "RESTful Rails Development",
+    "ratings": "4",
+    "category": "Ruby on Rails",
+    "column": "3",
+    "shelf": "5"
+  },
+  "book_1016" : {
+    "id": 16,
+    "name": "Ruby for Kids and Dummies",
+    "author": "Christopher Haupt",
+    "title": "Ruby for Kids and Dummies",
+    "ratings": "4.5",
+    "category": "Ruby on Rails",
+    "column": "4",
+    "shelf": "1"
+  },
+  "book_1017" : {
+    "id": 17,
+    "name": "Learning Rails 5",
+    "author": "Mark Locklear",
+    "title": "Learning Rails 5",
+    "ratings": "4",
+    "category": "Ruby on Rails",
+    "column": "4",
+    "shelf": "2"
+  },
+  "book_1018" : {
+    "id": 18,
+    "name": "Rails: Novice to Ninja",
+    "author": "Glenn Goodrich",
+    "title": "Rails: Novice to Ninja",
+    "ratings": "4",
+    "category": "Ruby on Rails",
+    "column": "4",
+    "shelf": "3"
+  },
+  "book_1019" : {
+    "id": 19,
+    "name": "Ruby Wizardry",
+    "author": "Eric Weinstein",
+    "title": "Ruby Wizardry",
+    "ratings": "4.5",
+    "category": "Ruby on Rails",
+    "column": "4",
+    "shelf": "4"
+  },
+  "book_1020" : {
+    "id": 20,
+    "name": "Metaprogramming Ruby 2",
+    "author": "Paolo Perrotta",
+    "title": "Metaprogramming Ruby 2",
+    "ratings": "4.5",
+    "category": "Ruby on Rails",
+    "column": "4",
+    "shelf": "5"
+  }
+}

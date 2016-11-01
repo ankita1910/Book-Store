@@ -1,0 +1,44 @@
+.book-store {
+	width: 600px;
+	height: 400px;
+	background: #f2f2f2;
+	margin: auto;
+	border: 1px solid #dfe3e7;
+	padding: 20px;
+}
+.heading {
+	text-align: center;
+	font-size: 30px;
+	color: #c33;
+	font-weight: 600;
+	line-height: 40px;
+}
+.heading .enter-bookname {
+	font-size: 22px;
+}
+.search-book {
+	padding-top: 30px;
+	text-align: center;
+}
+.search-book input[type="text"] {
+	width: 400px;
+	padding: 10px 20px;
+}
+.search-btn {
+	background: #c33;
+	color: #fff;
+	width: 100px;
+	margin: auto;
+	padding: 10px;
+	border-radius: 4px;
+	margin-top: 30px;
+	cursor: pointer;
+}
+.searched-result {
+	margin-top: 20px;
+	font-size: 18px;
+}
+.book-name {
+	font-weight: 600;
+	text-decoration: underline;
+}
